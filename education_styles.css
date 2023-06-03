@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Quattrocento&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+.container{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #99A98F;
+    height: 100vh;
+    width: 100%;
+}
+
+.info{
+    display: flex;
+    height: 50%;
+    width: 50%;
+    font-size: 3.7vh;
+    font-style: italic;
+    flex-direction: column;
+    background-color: #D6E8DB;
+    border-radius: 2vh;
+    box-shadow: 1vh 1vh #C1D0B5;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
+    
+}
+
+#heading{
+    font-size: 5vh;
+    padding-bottom: 0;
+    font-family: 'Alegreya Sans', sans-serif;
+     font-family: 'IBM Plex Sans', sans-serif;
+}
+
+ul{
+    margin-top: 0;
+}
