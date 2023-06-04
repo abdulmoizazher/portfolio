@@ -57,6 +57,7 @@ a{
     justify-content: center;
     display: flex;
     background-color: #DDE6ED;
+    transition: 2ms;
 
 }
 
